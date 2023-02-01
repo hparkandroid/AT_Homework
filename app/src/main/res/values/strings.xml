@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lunch</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="permissionsRequired">Permissions Required</string>
+    <string name="openSettings">Open Settings</string>
+    <string name="oopsSomethingWentWrong">Oops something went wrong</string>
+    <string name="locationWasNotFound">Location was not found</string>
+    <string name="noRestaurantsWereFound">No Restaurants were not found</string>
+    <string name="search">Search restaurants</string>
+</resources>
